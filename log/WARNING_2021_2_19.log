@@ -1,0 +1,763 @@
+2021-02-19 15:41:33 [scrapy.core.scraper] ERROR: Spider error processing <GET https://bj.lianjia.com/xiaoqu/1120044062852389> (referer: https://bj.lianjia.com/xiaoqu/daxingqita11/pg1/)
+Traceback (most recent call last):
+  File "P:\SERVERs\Anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\CODE\PycharmProjects\ershoufangScrappy\esfspider\esfspider\spiders\testxiaoquSpider.py", line 74, in parse_content
+    unit_price = selector.xpath('/html/body/div[6]/div[2]/div[1]/div/span[1]').extract()
+AttributeError: 'list' object has no attribute 'extract'
+2021-02-19 15:41:37 [scrapy.core.scraper] ERROR: Spider error processing <GET https://bj.lianjia.com/xiaoqu/1111045975837> (referer: https://bj.lianjia.com/xiaoqu/daxingqita11/pg1/)
+Traceback (most recent call last):
+  File "P:\SERVERs\Anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\CODE\PycharmProjects\ershoufangScrappy\esfspider\esfspider\spiders\testxiaoquSpider.py", line 74, in parse_content
+    unit_price = selector.xpath('/html/body/div[6]/div[2]/div[1]/div/span[1]').extract()
+AttributeError: 'list' object has no attribute 'extract'
+2021-02-19 15:41:42 [scrapy.core.scraper] ERROR: Spider error processing <GET https://bj.lianjia.com/xiaoqu/1111027377447> (referer: https://bj.lianjia.com/xiaoqu/daxingqita11/pg1/)
+Traceback (most recent call last):
+  File "P:\SERVERs\Anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\CODE\PycharmProjects\ershoufangScrappy\esfspider\esfspider\spiders\testxiaoquSpider.py", line 74, in parse_content
+    unit_price = selector.xpath('/html/body/div[6]/div[2]/div[1]/div/span[1]').extract()
+AttributeError: 'list' object has no attribute 'extract'
+2021-02-19 15:41:45 [scrapy.core.scraper] ERROR: Spider error processing <GET https://bj.lianjia.com/xiaoqu/1111045612857> (referer: https://bj.lianjia.com/xiaoqu/daxingqita11/pg1/)
+Traceback (most recent call last):
+  File "P:\SERVERs\Anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\CODE\PycharmProjects\ershoufangScrappy\esfspider\esfspider\spiders\testxiaoquSpider.py", line 74, in parse_content
+    unit_price = selector.xpath('/html/body/div[6]/div[2]/div[1]/div/span[1]').extract()
+AttributeError: 'list' object has no attribute 'extract'
+2021-02-19 15:41:48 [scrapy.core.scraper] ERROR: Spider error processing <GET https://bj.lianjia.com/xiaoqu/1111040863026> (referer: https://bj.lianjia.com/xiaoqu/daxingqita11/pg1/)
+Traceback (most recent call last):
+  File "P:\SERVERs\Anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\CODE\PycharmProjects\ershoufangScrappy\esfspider\esfspider\spiders\testxiaoquSpider.py", line 74, in parse_content
+    unit_price = selector.xpath('/html/body/div[6]/div[2]/div[1]/div/span[1]').extract()
+AttributeError: 'list' object has no attribute 'extract'
+2021-02-19 15:41:51 [scrapy.core.scraper] ERROR: Spider error processing <GET https://bj.lianjia.com/xiaoqu/1111046190325> (referer: https://bj.lianjia.com/xiaoqu/daxingqita11/pg1/)
+Traceback (most recent call last):
+  File "P:\SERVERs\Anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\CODE\PycharmProjects\ershoufangScrappy\esfspider\esfspider\spiders\testxiaoquSpider.py", line 74, in parse_content
+    unit_price = selector.xpath('/html/body/div[6]/div[2]/div[1]/div/span[1]').extract()
+AttributeError: 'list' object has no attribute 'extract'
+2021-02-19 15:41:55 [scrapy.core.scraper] ERROR: Spider error processing <GET https://bj.lianjia.com/xiaoqu/1111027375406> (referer: https://bj.lianjia.com/xiaoqu/daxingqita11/pg1/)
+Traceback (most recent call last):
+  File "P:\SERVERs\Anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\CODE\PycharmProjects\ershoufangScrappy\esfspider\esfspider\spiders\testxiaoquSpider.py", line 74, in parse_content
+    unit_price = selector.xpath('/html/body/div[6]/div[2]/div[1]/div/span[1]').extract()
+AttributeError: 'list' object has no attribute 'extract'
+2021-02-19 15:41:58 [scrapy.core.scraper] ERROR: Spider error processing <GET https://bj.lianjia.com/xiaoqu/1111045733851> (referer: https://bj.lianjia.com/xiaoqu/daxingqita11/pg1/)
+Traceback (most recent call last):
+  File "P:\SERVERs\Anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\CODE\PycharmProjects\ershoufangScrappy\esfspider\esfspider\spiders\testxiaoquSpider.py", line 74, in parse_content
+    unit_price = selector.xpath('/html/body/div[6]/div[2]/div[1]/div/span[1]').extract()
+AttributeError: 'list' object has no attribute 'extract'
+2021-02-19 15:42:03 [scrapy.core.scraper] ERROR: Spider error processing <GET https://bj.lianjia.com/xiaoqu/1111027377163> (referer: https://bj.lianjia.com/xiaoqu/daxingqita11/pg1/)
+Traceback (most recent call last):
+  File "P:\SERVERs\Anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\CODE\PycharmProjects\ershoufangScrappy\esfspider\esfspider\spiders\testxiaoquSpider.py", line 74, in parse_content
+    unit_price = selector.xpath('/html/body/div[6]/div[2]/div[1]/div/span[1]').extract()
+AttributeError: 'list' object has no attribute 'extract'
+2021-02-19 15:42:06 [scrapy.core.scraper] ERROR: Spider error processing <GET https://bj.lianjia.com/xiaoqu/1111027375556> (referer: https://bj.lianjia.com/xiaoqu/daxingqita11/pg1/)
+Traceback (most recent call last):
+  File "P:\SERVERs\Anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\CODE\PycharmProjects\ershoufangScrappy\esfspider\esfspider\spiders\testxiaoquSpider.py", line 74, in parse_content
+    unit_price = selector.xpath('/html/body/div[6]/div[2]/div[1]/div/span[1]').extract()
+AttributeError: 'list' object has no attribute 'extract'
+2021-02-19 15:42:09 [scrapy.core.scraper] ERROR: Spider error processing <GET https://bj.lianjia.com/xiaoqu/1111099476113> (referer: https://bj.lianjia.com/xiaoqu/daxingqita11/pg1/)
+Traceback (most recent call last):
+  File "P:\SERVERs\Anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\CODE\PycharmProjects\ershoufangScrappy\esfspider\esfspider\spiders\testxiaoquSpider.py", line 74, in parse_content
+    unit_price = selector.xpath('/html/body/div[6]/div[2]/div[1]/div/span[1]').extract()
+AttributeError: 'list' object has no attribute 'extract'
+2021-02-19 15:42:14 [scrapy.core.scraper] ERROR: Spider error processing <GET https://bj.lianjia.com/xiaoqu/1111047382388> (referer: https://bj.lianjia.com/xiaoqu/daxingqita11/pg1/)
+Traceback (most recent call last):
+  File "P:\SERVERs\Anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\CODE\PycharmProjects\ershoufangScrappy\esfspider\esfspider\spiders\testxiaoquSpider.py", line 74, in parse_content
+    unit_price = selector.xpath('/html/body/div[6]/div[2]/div[1]/div/span[1]').extract()
+AttributeError: 'list' object has no attribute 'extract'
+2021-02-19 15:42:16 [scrapy.core.scraper] ERROR: Spider error processing <GET https://bj.lianjia.com/xiaoqu/1111027377894> (referer: https://bj.lianjia.com/xiaoqu/daxingqita11/pg1/)
+Traceback (most recent call last):
+  File "P:\SERVERs\Anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\CODE\PycharmProjects\ershoufangScrappy\esfspider\esfspider\spiders\testxiaoquSpider.py", line 74, in parse_content
+    unit_price = selector.xpath('/html/body/div[6]/div[2]/div[1]/div/span[1]').extract()
+AttributeError: 'list' object has no attribute 'extract'
+2021-02-19 15:42:20 [scrapy.core.scraper] ERROR: Spider error processing <GET https://bj.lianjia.com/xiaoqu/1111063778637> (referer: https://bj.lianjia.com/xiaoqu/daxingqita11/pg1/)
+Traceback (most recent call last):
+  File "P:\SERVERs\Anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\CODE\PycharmProjects\ershoufangScrappy\esfspider\esfspider\spiders\testxiaoquSpider.py", line 74, in parse_content
+    unit_price = selector.xpath('/html/body/div[6]/div[2]/div[1]/div/span[1]').extract()
+AttributeError: 'list' object has no attribute 'extract'
+2021-02-19 15:42:23 [scrapy.core.scraper] ERROR: Spider error processing <GET https://bj.lianjia.com/xiaoqu/1111064148851> (referer: https://bj.lianjia.com/xiaoqu/daxingqita11/pg1/)
+Traceback (most recent call last):
+  File "P:\SERVERs\Anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\CODE\PycharmProjects\ershoufangScrappy\esfspider\esfspider\spiders\testxiaoquSpider.py", line 74, in parse_content
+    unit_price = selector.xpath('/html/body/div[6]/div[2]/div[1]/div/span[1]').extract()
+AttributeError: 'list' object has no attribute 'extract'
+2021-02-19 15:44:55 [scrapy.core.scraper] ERROR: Spider error processing <GET https://bj.lianjia.com/xiaoqu/huairouqita1/> (referer: https://bj.lianjia.com/xiaoqu/huairou/)
+Traceback (most recent call last):
+  File "P:\SERVERs\Anaconda3\lib\site-packages\scrapy\utils\defer.py", line 120, in iter_errback
+    yield next(it)
+  File "P:\SERVERs\Anaconda3\lib\site-packages\scrapy\utils\python.py", line 353, in __next__
+    return next(self.data)
+  File "P:\SERVERs\Anaconda3\lib\site-packages\scrapy\utils\python.py", line 353, in __next__
+    return next(self.data)
+  File "P:\SERVERs\Anaconda3\lib\site-packages\scrapy\core\spidermw.py", line 62, in _evaluate_iterable
+    for r in iterable:
+  File "P:\SERVERs\Anaconda3\lib\site-packages\scrapy\spidermiddlewares\offsite.py", line 29, in process_spider_output
+    for x in result:
+  File "P:\SERVERs\Anaconda3\lib\site-packages\scrapy\core\spidermw.py", line 62, in _evaluate_iterable
+    for r in iterable:
+  File "P:\SERVERs\Anaconda3\lib\site-packages\scrapy\spidermiddlewares\referer.py", line 340, in <genexpr>
+    return (_set_referer(r) for r in result or ())
+  File "P:\SERVERs\Anaconda3\lib\site-packages\scrapy\core\spidermw.py", line 62, in _evaluate_iterable
+    for r in iterable:
+  File "P:\SERVERs\Anaconda3\lib\site-packages\scrapy\spidermiddlewares\urllength.py", line 37, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "P:\SERVERs\Anaconda3\lib\site-packages\scrapy\core\spidermw.py", line 62, in _evaluate_iterable
+    for r in iterable:
+  File "P:\SERVERs\Anaconda3\lib\site-packages\scrapy\spidermiddlewares\depth.py", line 58, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "P:\SERVERs\Anaconda3\lib\site-packages\scrapy\core\spidermw.py", line 62, in _evaluate_iterable
+    for r in iterable:
+  File "D:\CODE\PycharmProjects\ershoufangScrappy\esfspider\esfspider\spiders\testxiaoquSpider.py", line 50, in parse_xiaoqu
+    sel = selector.xpath("//div[@class='page-box house-lst-page-box']/@page-data")[0]  # 返回的是字符串字典 当前街道共有页数
+IndexError: list index out of range
+2021-02-19 15:50:16 [scrapy.core.scraper] ERROR: Spider error processing <GET https://bj.lianjia.com/xiaoqu/1111027381664> (referer: https://bj.lianjia.com/xiaoqu/yanqingqita1/pg1/)
+Traceback (most recent call last):
+  File "P:\SERVERs\Anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\CODE\PycharmProjects\ershoufangScrappy\esfspider\esfspider\spiders\testxiaoquSpider.py", line 74, in parse_content
+    unit_price = selector.xpath('/html/body/div[6]/div[2]/div[1]/div/span[1]')[0]#.extract()
+IndexError: list index out of range
+2021-02-19 15:50:20 [scrapy.core.scraper] ERROR: Spider error processing <GET https://bj.lianjia.com/xiaoqu/1120020695804580> (referer: https://bj.lianjia.com/xiaoqu/yanqingqita1/pg1/)
+Traceback (most recent call last):
+  File "P:\SERVERs\Anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\CODE\PycharmProjects\ershoufangScrappy\esfspider\esfspider\spiders\testxiaoquSpider.py", line 74, in parse_content
+    unit_price = selector.xpath('/html/body/div[6]/div[2]/div[1]/div/span[1]')[0]#.extract()
+IndexError: list index out of range
+2021-02-19 15:50:22 [scrapy.core.scraper] ERROR: Spider error processing <GET https://bj.lianjia.com/xiaoqu/1120025429663835> (referer: https://bj.lianjia.com/xiaoqu/yanqingqita1/pg1/)
+Traceback (most recent call last):
+  File "P:\SERVERs\Anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\CODE\PycharmProjects\ershoufangScrappy\esfspider\esfspider\spiders\testxiaoquSpider.py", line 74, in parse_content
+    unit_price = selector.xpath('/html/body/div[6]/div[2]/div[1]/div/span[1]')[0]#.extract()
+IndexError: list index out of range
+2021-02-19 15:50:25 [scrapy.core.scraper] ERROR: Spider error processing <GET https://bj.lianjia.com/xiaoqu/1120030670651923> (referer: https://bj.lianjia.com/xiaoqu/yanqingqita1/pg1/)
+Traceback (most recent call last):
+  File "P:\SERVERs\Anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\CODE\PycharmProjects\ershoufangScrappy\esfspider\esfspider\spiders\testxiaoquSpider.py", line 74, in parse_content
+    unit_price = selector.xpath('/html/body/div[6]/div[2]/div[1]/div/span[1]')[0]#.extract()
+IndexError: list index out of range
+2021-02-19 15:50:29 [scrapy.core.scraper] ERROR: Spider error processing <GET https://bj.lianjia.com/xiaoqu/1120030663305918> (referer: https://bj.lianjia.com/xiaoqu/yanqingqita1/pg1/)
+Traceback (most recent call last):
+  File "P:\SERVERs\Anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\CODE\PycharmProjects\ershoufangScrappy\esfspider\esfspider\spiders\testxiaoquSpider.py", line 74, in parse_content
+    unit_price = selector.xpath('/html/body/div[6]/div[2]/div[1]/div/span[1]')[0]#.extract()
+IndexError: list index out of range
+2021-02-19 15:50:34 [scrapy.core.scraper] ERROR: Spider error processing <GET https://bj.lianjia.com/xiaoqu/1120030633949685> (referer: https://bj.lianjia.com/xiaoqu/yanqingqita1/pg1/)
+Traceback (most recent call last):
+  File "P:\SERVERs\Anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\CODE\PycharmProjects\ershoufangScrappy\esfspider\esfspider\spiders\testxiaoquSpider.py", line 74, in parse_content
+    unit_price = selector.xpath('/html/body/div[6]/div[2]/div[1]/div/span[1]')[0]#.extract()
+IndexError: list index out of range
+2021-02-19 15:50:41 [scrapy.core.scraper] ERROR: Spider error processing <GET https://bj.lianjia.com/xiaoqu/1120030632899034> (referer: https://bj.lianjia.com/xiaoqu/yanqingqita1/pg1/)
+Traceback (most recent call last):
+  File "P:\SERVERs\Anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\CODE\PycharmProjects\ershoufangScrappy\esfspider\esfspider\spiders\testxiaoquSpider.py", line 74, in parse_content
+    unit_price = selector.xpath('/html/body/div[6]/div[2]/div[1]/div/span[1]')[0]#.extract()
+IndexError: list index out of range
+2021-02-19 15:50:43 [scrapy.core.scraper] ERROR: Spider error processing <GET https://bj.lianjia.com/xiaoqu/1111046229825> (referer: https://bj.lianjia.com/xiaoqu/yanqingqita1/pg1/)
+Traceback (most recent call last):
+  File "P:\SERVERs\Anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\CODE\PycharmProjects\ershoufangScrappy\esfspider\esfspider\spiders\testxiaoquSpider.py", line 74, in parse_content
+    unit_price = selector.xpath('/html/body/div[6]/div[2]/div[1]/div/span[1]')[0]#.extract()
+IndexError: list index out of range
+2021-02-19 15:54:32 [scrapy.core.scraper] ERROR: Spider error processing <GET https://bj.lianjia.com/xiaoqu/1111027381664> (referer: https://bj.lianjia.com/xiaoqu/yanqingqita1/pg1/)
+Traceback (most recent call last):
+  File "P:\SERVERs\Anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\CODE\PycharmProjects\ershoufangScrappy\esfspider\esfspider\spiders\testxiaoquSpider.py", line 74, in parse_content
+    unit_price = selector.xpath('/html/body/div[6]/div[2]/div[1]/div/span[1]').text()#.extract()
+AttributeError: 'list' object has no attribute 'text'
+2021-02-19 15:54:36 [scrapy.core.scraper] ERROR: Spider error processing <GET https://bj.lianjia.com/xiaoqu/1120020695804580> (referer: https://bj.lianjia.com/xiaoqu/yanqingqita1/pg1/)
+Traceback (most recent call last):
+  File "P:\SERVERs\Anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\CODE\PycharmProjects\ershoufangScrappy\esfspider\esfspider\spiders\testxiaoquSpider.py", line 74, in parse_content
+    unit_price = selector.xpath('/html/body/div[6]/div[2]/div[1]/div/span[1]').text()#.extract()
+AttributeError: 'list' object has no attribute 'text'
+2021-02-19 15:54:40 [scrapy.core.scraper] ERROR: Spider error processing <GET https://bj.lianjia.com/xiaoqu/1120025429663835> (referer: https://bj.lianjia.com/xiaoqu/yanqingqita1/pg1/)
+Traceback (most recent call last):
+  File "P:\SERVERs\Anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\CODE\PycharmProjects\ershoufangScrappy\esfspider\esfspider\spiders\testxiaoquSpider.py", line 74, in parse_content
+    unit_price = selector.xpath('/html/body/div[6]/div[2]/div[1]/div/span[1]').text()#.extract()
+AttributeError: 'list' object has no attribute 'text'
+2021-02-19 15:54:44 [scrapy.core.scraper] ERROR: Spider error processing <GET https://bj.lianjia.com/xiaoqu/1120030670651923> (referer: https://bj.lianjia.com/xiaoqu/yanqingqita1/pg1/)
+Traceback (most recent call last):
+  File "P:\SERVERs\Anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\CODE\PycharmProjects\ershoufangScrappy\esfspider\esfspider\spiders\testxiaoquSpider.py", line 74, in parse_content
+    unit_price = selector.xpath('/html/body/div[6]/div[2]/div[1]/div/span[1]').text()#.extract()
+AttributeError: 'list' object has no attribute 'text'
+2021-02-19 15:54:48 [scrapy.core.scraper] ERROR: Spider error processing <GET https://bj.lianjia.com/xiaoqu/1120030663305918> (referer: https://bj.lianjia.com/xiaoqu/yanqingqita1/pg1/)
+Traceback (most recent call last):
+  File "P:\SERVERs\Anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\CODE\PycharmProjects\ershoufangScrappy\esfspider\esfspider\spiders\testxiaoquSpider.py", line 74, in parse_content
+    unit_price = selector.xpath('/html/body/div[6]/div[2]/div[1]/div/span[1]').text()#.extract()
+AttributeError: 'list' object has no attribute 'text'
+2021-02-19 15:54:51 [scrapy.core.scraper] ERROR: Spider error processing <GET https://bj.lianjia.com/xiaoqu/1120030633949685> (referer: https://bj.lianjia.com/xiaoqu/yanqingqita1/pg1/)
+Traceback (most recent call last):
+  File "P:\SERVERs\Anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\CODE\PycharmProjects\ershoufangScrappy\esfspider\esfspider\spiders\testxiaoquSpider.py", line 74, in parse_content
+    unit_price = selector.xpath('/html/body/div[6]/div[2]/div[1]/div/span[1]').text()#.extract()
+AttributeError: 'list' object has no attribute 'text'
+2021-02-19 16:02:10 [scrapy.core.scraper] ERROR: Spider error processing <GET https://bj.lianjia.com/xiaoqu/1120030627662461> (referer: https://bj.lianjia.com/xiaoqu/yanqingqita1/pg1/)
+Traceback (most recent call last):
+  File "P:\SERVERs\Anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\CODE\PycharmProjects\ershoufangScrappy\esfspider\esfspider\spiders\testxiaoquSpider.py", line 93, in parse_content
+    print(xiaoqu_id, unit_price[0])
+IndexError: list index out of range
+2021-02-19 16:02:26 [scrapy.core.scraper] ERROR: Spider error processing <GET https://bj.lianjia.com/xiaoqu/1111046347604> (referer: https://bj.lianjia.com/xiaoqu/yanqingqita1/pg1/)
+Traceback (most recent call last):
+  File "P:\SERVERs\Anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\CODE\PycharmProjects\ershoufangScrappy\esfspider\esfspider\spiders\testxiaoquSpider.py", line 93, in parse_content
+    print(xiaoqu_id, unit_price[0])
+IndexError: list index out of range
+2021-02-19 16:02:30 [scrapy.core.scraper] ERROR: Spider error processing <GET https://bj.lianjia.com/xiaoqu/1120030631853477> (referer: https://bj.lianjia.com/xiaoqu/yanqingqita1/pg1/)
+Traceback (most recent call last):
+  File "P:\SERVERs\Anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\CODE\PycharmProjects\ershoufangScrappy\esfspider\esfspider\spiders\testxiaoquSpider.py", line 93, in parse_content
+    print(xiaoqu_id, unit_price[0])
+IndexError: list index out of range
+2021-02-19 16:02:32 [scrapy.core.scraper] ERROR: Spider error processing <GET https://bj.lianjia.com/xiaoqu/1120030626614365> (referer: https://bj.lianjia.com/xiaoqu/yanqingqita1/pg1/)
+Traceback (most recent call last):
+  File "P:\SERVERs\Anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\CODE\PycharmProjects\ershoufangScrappy\esfspider\esfspider\spiders\testxiaoquSpider.py", line 93, in parse_content
+    print(xiaoqu_id, unit_price[0])
+IndexError: list index out of range
+2021-02-19 16:02:34 [scrapy.core.scraper] ERROR: Spider error processing <GET https://bj.lianjia.com/xiaoqu/1113447651142957> (referer: https://bj.lianjia.com/xiaoqu/yanqingqita1/pg1/)
+Traceback (most recent call last):
+  File "P:\SERVERs\Anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\CODE\PycharmProjects\ershoufangScrappy\esfspider\esfspider\spiders\testxiaoquSpider.py", line 93, in parse_content
+    print(xiaoqu_id, unit_price[0])
+IndexError: list index out of range
+2021-02-19 16:02:41 [scrapy.core.scraper] ERROR: Spider error processing <GET https://bj.lianjia.com/xiaoqu/1111046229825> (referer: https://bj.lianjia.com/xiaoqu/yanqingqita1/pg1/)
+Traceback (most recent call last):
+  File "P:\SERVERs\Anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\CODE\PycharmProjects\ershoufangScrappy\esfspider\esfspider\spiders\testxiaoquSpider.py", line 93, in parse_content
+    print(xiaoqu_id, unit_price[0])
+IndexError: list index out of range
+2021-02-19 16:03:16 [scrapy.core.scraper] ERROR: Spider error processing <GET https://bj.lianjia.com/xiaoqu/118254801588498> (referer: https://bj.lianjia.com/xiaoqu/yanqingqita1/pg1/)
+Traceback (most recent call last):
+  File "P:\SERVERs\Anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\CODE\PycharmProjects\ershoufangScrappy\esfspider\esfspider\spiders\testxiaoquSpider.py", line 93, in parse_content
+    print(xiaoqu_id, unit_price[0].text())
+TypeError: 'str' object is not callable
+2021-02-19 16:03:20 [scrapy.core.scraper] ERROR: Spider error processing <GET https://bj.lianjia.com/xiaoqu/1120021576772044> (referer: https://bj.lianjia.com/xiaoqu/yanqingqita1/pg1/)
+Traceback (most recent call last):
+  File "P:\SERVERs\Anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\CODE\PycharmProjects\ershoufangScrappy\esfspider\esfspider\spiders\testxiaoquSpider.py", line 93, in parse_content
+    print(xiaoqu_id, unit_price[0].text())
+IndexError: list index out of range
+2021-02-19 16:03:23 [scrapy.core.scraper] ERROR: Spider error processing <GET https://bj.lianjia.com/xiaoqu/1111027377928> (referer: https://bj.lianjia.com/xiaoqu/yanqingqita1/pg1/)
+Traceback (most recent call last):
+  File "P:\SERVERs\Anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\CODE\PycharmProjects\ershoufangScrappy\esfspider\esfspider\spiders\testxiaoquSpider.py", line 93, in parse_content
+    print(xiaoqu_id, unit_price[0].text())
+TypeError: 'str' object is not callable
+2021-02-19 16:03:26 [scrapy.core.scraper] ERROR: Spider error processing <GET https://bj.lianjia.com/xiaoqu/1120020695804580> (referer: https://bj.lianjia.com/xiaoqu/yanqingqita1/pg1/)
+Traceback (most recent call last):
+  File "P:\SERVERs\Anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\CODE\PycharmProjects\ershoufangScrappy\esfspider\esfspider\spiders\testxiaoquSpider.py", line 93, in parse_content
+    print(xiaoqu_id, unit_price[0].text())
+IndexError: list index out of range
+2021-02-19 16:03:31 [scrapy.core.scraper] ERROR: Spider error processing <GET https://bj.lianjia.com/xiaoqu/1120030670651923> (referer: https://bj.lianjia.com/xiaoqu/yanqingqita1/pg1/)
+Traceback (most recent call last):
+  File "P:\SERVERs\Anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\CODE\PycharmProjects\ershoufangScrappy\esfspider\esfspider\spiders\testxiaoquSpider.py", line 93, in parse_content
+    print(xiaoqu_id, unit_price[0].text())
+IndexError: list index out of range
+2021-02-19 16:03:35 [scrapy.core.scraper] ERROR: Spider error processing <GET https://bj.lianjia.com/xiaoqu/1120025429663835> (referer: https://bj.lianjia.com/xiaoqu/yanqingqita1/pg1/)
+Traceback (most recent call last):
+  File "P:\SERVERs\Anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\CODE\PycharmProjects\ershoufangScrappy\esfspider\esfspider\spiders\testxiaoquSpider.py", line 93, in parse_content
+    print(xiaoqu_id, unit_price[0].text())
+IndexError: list index out of range
+2021-02-19 16:03:39 [scrapy.core.scraper] ERROR: Spider error processing <GET https://bj.lianjia.com/xiaoqu/1120030633949685> (referer: https://bj.lianjia.com/xiaoqu/yanqingqita1/pg1/)
+Traceback (most recent call last):
+  File "P:\SERVERs\Anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\CODE\PycharmProjects\ershoufangScrappy\esfspider\esfspider\spiders\testxiaoquSpider.py", line 93, in parse_content
+    print(xiaoqu_id, unit_price[0].text())
+IndexError: list index out of range
+2021-02-19 16:06:51 [scrapy.core.scraper] ERROR: Spider error processing <GET https://bj.lianjia.com/xiaoqu/1120030663305918> (referer: https://bj.lianjia.com/xiaoqu/yanqingqita1/pg1/)
+Traceback (most recent call last):
+  File "P:\SERVERs\Anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\CODE\PycharmProjects\ershoufangScrappy\esfspider\esfspider\spiders\testxiaoquSpider.py", line 96, in parse_content
+    print(xiaoqu_id, unit_price[0])
+IndexError: list index out of range
+2021-02-19 16:06:55 [scrapy.core.scraper] ERROR: Spider error processing <GET https://bj.lianjia.com/xiaoqu/1120030626614365> (referer: https://bj.lianjia.com/xiaoqu/yanqingqita1/pg1/)
+Traceback (most recent call last):
+  File "P:\SERVERs\Anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\CODE\PycharmProjects\ershoufangScrappy\esfspider\esfspider\spiders\testxiaoquSpider.py", line 96, in parse_content
+    print(xiaoqu_id, unit_price[0])
+IndexError: list index out of range
+2021-02-19 16:06:59 [scrapy.core.scraper] ERROR: Spider error processing <GET https://bj.lianjia.com/xiaoqu/1113447651142957> (referer: https://bj.lianjia.com/xiaoqu/yanqingqita1/pg1/)
+Traceback (most recent call last):
+  File "P:\SERVERs\Anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\CODE\PycharmProjects\ershoufangScrappy\esfspider\esfspider\spiders\testxiaoquSpider.py", line 96, in parse_content
+    print(xiaoqu_id, unit_price[0])
+IndexError: list index out of range
+2021-02-19 16:07:03 [scrapy.core.scraper] ERROR: Spider error processing <GET https://bj.lianjia.com/xiaoqu/1120030631853477> (referer: https://bj.lianjia.com/xiaoqu/yanqingqita1/pg1/)
+Traceback (most recent call last):
+  File "P:\SERVERs\Anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\CODE\PycharmProjects\ershoufangScrappy\esfspider\esfspider\spiders\testxiaoquSpider.py", line 96, in parse_content
+    print(xiaoqu_id, unit_price[0])
+IndexError: list index out of range
+2021-02-19 16:07:07 [scrapy.core.scraper] ERROR: Spider error processing <GET https://bj.lianjia.com/xiaoqu/1120030632899034> (referer: https://bj.lianjia.com/xiaoqu/yanqingqita1/pg1/)
+Traceback (most recent call last):
+  File "P:\SERVERs\Anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\CODE\PycharmProjects\ershoufangScrappy\esfspider\esfspider\spiders\testxiaoquSpider.py", line 96, in parse_content
+    print(xiaoqu_id, unit_price[0])
+IndexError: list index out of range
+2021-02-19 16:07:11 [scrapy.core.scraper] ERROR: Spider error processing <GET https://bj.lianjia.com/xiaoqu/1111046229825> (referer: https://bj.lianjia.com/xiaoqu/yanqingqita1/pg1/)
+Traceback (most recent call last):
+  File "P:\SERVERs\Anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\CODE\PycharmProjects\ershoufangScrappy\esfspider\esfspider\spiders\testxiaoquSpider.py", line 96, in parse_content
+    print(xiaoqu_id, unit_price[0])
+IndexError: list index out of range
+2021-02-19 16:07:18 [scrapy.core.scraper] ERROR: Spider error processing <GET https://bj.lianjia.com/xiaoqu/1120027147086352> (referer: https://bj.lianjia.com/xiaoqu/yanqingqita1/pg1/)
+Traceback (most recent call last):
+  File "P:\SERVERs\Anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\CODE\PycharmProjects\ershoufangScrappy\esfspider\esfspider\spiders\testxiaoquSpider.py", line 96, in parse_content
+    print(xiaoqu_id, unit_price[0])
+IndexError: list index out of range
+2021-02-19 16:07:21 [scrapy.core.scraper] ERROR: Spider error processing <GET https://bj.lianjia.com/xiaoqu/1111027381664> (referer: https://bj.lianjia.com/xiaoqu/yanqingqita1/pg1/)
+Traceback (most recent call last):
+  File "P:\SERVERs\Anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\CODE\PycharmProjects\ershoufangScrappy\esfspider\esfspider\spiders\testxiaoquSpider.py", line 96, in parse_content
+    print(xiaoqu_id, unit_price[0])
+IndexError: list index out of range
+2021-02-19 16:07:26 [scrapy.core.scraper] ERROR: Spider error processing <GET https://bj.lianjia.com/xiaoqu/1120020597220817> (referer: https://bj.lianjia.com/xiaoqu/yanqingqita1/pg1/)
+Traceback (most recent call last):
+  File "P:\SERVERs\Anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\CODE\PycharmProjects\ershoufangScrappy\esfspider\esfspider\spiders\testxiaoquSpider.py", line 96, in parse_content
+    print(xiaoqu_id, unit_price[0])
+IndexError: list index out of range
+2021-02-19 16:07:27 [scrapy.core.scraper] ERROR: Spider error processing <GET https://bj.lianjia.com/xiaoqu/1120030653877020> (referer: https://bj.lianjia.com/xiaoqu/yanqingqita1/pg1/)
+Traceback (most recent call last):
+  File "P:\SERVERs\Anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\CODE\PycharmProjects\ershoufangScrappy\esfspider\esfspider\spiders\testxiaoquSpider.py", line 96, in parse_content
+    print(xiaoqu_id, unit_price[0])
+IndexError: list index out of range
+2021-02-19 16:07:34 [scrapy.core.scraper] ERROR: Spider error processing <GET https://bj.lianjia.com/xiaoqu/1120021576772044> (referer: https://bj.lianjia.com/xiaoqu/yanqingqita1/pg1/)
+Traceback (most recent call last):
+  File "P:\SERVERs\Anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\CODE\PycharmProjects\ershoufangScrappy\esfspider\esfspider\spiders\testxiaoquSpider.py", line 96, in parse_content
+    print(xiaoqu_id, unit_price[0])
+IndexError: list index out of range
+2021-02-19 16:07:42 [scrapy.core.scraper] ERROR: Spider error processing <GET https://bj.lianjia.com/xiaoqu/1120020695804580> (referer: https://bj.lianjia.com/xiaoqu/yanqingqita1/pg1/)
+Traceback (most recent call last):
+  File "P:\SERVERs\Anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\CODE\PycharmProjects\ershoufangScrappy\esfspider\esfspider\spiders\testxiaoquSpider.py", line 96, in parse_content
+    print(xiaoqu_id, unit_price[0])
+IndexError: list index out of range
+2021-02-19 16:07:45 [scrapy.core.scraper] ERROR: Spider error processing <GET https://bj.lianjia.com/xiaoqu/1120030670651923> (referer: https://bj.lianjia.com/xiaoqu/yanqingqita1/pg1/)
+Traceback (most recent call last):
+  File "P:\SERVERs\Anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\CODE\PycharmProjects\ershoufangScrappy\esfspider\esfspider\spiders\testxiaoquSpider.py", line 96, in parse_content
+    print(xiaoqu_id, unit_price[0])
+IndexError: list index out of range
+2021-02-19 16:07:50 [scrapy.core.scraper] ERROR: Spider error processing <GET https://bj.lianjia.com/xiaoqu/1120025429663835> (referer: https://bj.lianjia.com/xiaoqu/yanqingqita1/pg1/)
+Traceback (most recent call last):
+  File "P:\SERVERs\Anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\CODE\PycharmProjects\ershoufangScrappy\esfspider\esfspider\spiders\testxiaoquSpider.py", line 96, in parse_content
+    print(xiaoqu_id, unit_price[0])
+IndexError: list index out of range
+2021-02-19 16:07:52 [scrapy.core.scraper] ERROR: Spider error processing <GET https://bj.lianjia.com/xiaoqu/1120030633949685> (referer: https://bj.lianjia.com/xiaoqu/yanqingqita1/pg1/)
+Traceback (most recent call last):
+  File "P:\SERVERs\Anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\CODE\PycharmProjects\ershoufangScrappy\esfspider\esfspider\spiders\testxiaoquSpider.py", line 96, in parse_content
+    print(xiaoqu_id, unit_price[0])
+IndexError: list index out of range
+2021-02-19 16:08:10 [scrapy.core.scraper] ERROR: Spider error processing <GET https://bj.lianjia.com/xiaoqu/11000000000529> (referer: https://bj.lianjia.com/xiaoqu/yanqingqita1/pg1/)
+Traceback (most recent call last):
+  File "P:\SERVERs\Anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\CODE\PycharmProjects\ershoufangScrappy\esfspider\esfspider\spiders\testxiaoquSpider.py", line 96, in parse_content
+    print(xiaoqu_id, unit_price[0].text())
+IndexError: list index out of range
+2021-02-19 16:08:15 [scrapy.core.scraper] ERROR: Spider error processing <GET https://bj.lianjia.com/xiaoqu/1120030624515419> (referer: https://bj.lianjia.com/xiaoqu/yanqingqita1/pg1/)
+Traceback (most recent call last):
+  File "P:\SERVERs\Anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\CODE\PycharmProjects\ershoufangScrappy\esfspider\esfspider\spiders\testxiaoquSpider.py", line 96, in parse_content
+    print(xiaoqu_id, unit_price[0].text())
+IndexError: list index out of range
+2021-02-19 16:08:19 [scrapy.core.scraper] ERROR: Spider error processing <GET https://bj.lianjia.com/xiaoqu/1115367372834946> (referer: https://bj.lianjia.com/xiaoqu/yanqingqita1/pg1/)
+Traceback (most recent call last):
+  File "P:\SERVERs\Anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\CODE\PycharmProjects\ershoufangScrappy\esfspider\esfspider\spiders\testxiaoquSpider.py", line 96, in parse_content
+    print(xiaoqu_id, unit_price[0].text())
+TypeError: 'str' object is not callable
+2021-02-19 16:08:21 [scrapy.core.scraper] ERROR: Spider error processing <GET https://bj.lianjia.com/xiaoqu/1120030626613910> (referer: https://bj.lianjia.com/xiaoqu/yanqingqita1/pg1/)
+Traceback (most recent call last):
+  File "P:\SERVERs\Anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\CODE\PycharmProjects\ershoufangScrappy\esfspider\esfspider\spiders\testxiaoquSpider.py", line 96, in parse_content
+    print(xiaoqu_id, unit_price[0].text())
+IndexError: list index out of range
+2021-02-19 16:08:23 [scrapy.core.scraper] ERROR: Spider error processing <GET https://bj.lianjia.com/xiaoqu/1120030633951168> (referer: https://bj.lianjia.com/xiaoqu/yanqingqita1/pg1/)
+Traceback (most recent call last):
+  File "P:\SERVERs\Anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\CODE\PycharmProjects\ershoufangScrappy\esfspider\esfspider\spiders\testxiaoquSpider.py", line 96, in parse_content
+    print(xiaoqu_id, unit_price[0].text())
+TypeError: 'str' object is not callable
+2021-02-19 16:08:28 [scrapy.core.scraper] ERROR: Spider error processing <GET https://bj.lianjia.com/xiaoqu/1111046252007> (referer: https://bj.lianjia.com/xiaoqu/yanqingqita1/pg1/)
+Traceback (most recent call last):
+  File "P:\SERVERs\Anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\CODE\PycharmProjects\ershoufangScrappy\esfspider\esfspider\spiders\testxiaoquSpider.py", line 96, in parse_content
+    print(xiaoqu_id, unit_price[0].text())
+TypeError: 'str' object is not callable
+2021-02-19 16:08:31 [scrapy.core.scraper] ERROR: Spider error processing <GET https://bj.lianjia.com/xiaoqu/1111043183488> (referer: https://bj.lianjia.com/xiaoqu/yanqingqita1/pg1/)
+Traceback (most recent call last):
+  File "P:\SERVERs\Anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\CODE\PycharmProjects\ershoufangScrappy\esfspider\esfspider\spiders\testxiaoquSpider.py", line 96, in parse_content
+    print(xiaoqu_id, unit_price[0].text())
+IndexError: list index out of range
+2021-02-19 16:08:34 [scrapy.core.scraper] ERROR: Spider error processing <GET https://bj.lianjia.com/xiaoqu/11000000000501> (referer: https://bj.lianjia.com/xiaoqu/yanqingqita1/pg1/)
+Traceback (most recent call last):
+  File "P:\SERVERs\Anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\CODE\PycharmProjects\ershoufangScrappy\esfspider\esfspider\spiders\testxiaoquSpider.py", line 96, in parse_content
+    print(xiaoqu_id, unit_price[0].text())
+TypeError: 'str' object is not callable
+2021-02-19 16:08:38 [scrapy.core.scraper] ERROR: Spider error processing <GET https://bj.lianjia.com/xiaoqu/1111027381663> (referer: https://bj.lianjia.com/xiaoqu/yanqingqita1/pg1/)
+Traceback (most recent call last):
+  File "P:\SERVERs\Anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\CODE\PycharmProjects\ershoufangScrappy\esfspider\esfspider\spiders\testxiaoquSpider.py", line 96, in parse_content
+    print(xiaoqu_id, unit_price[0].text())
+TypeError: 'str' object is not callable
+2021-02-19 16:08:40 [scrapy.core.scraper] ERROR: Spider error processing <GET https://bj.lianjia.com/xiaoqu/1111042004869> (referer: https://bj.lianjia.com/xiaoqu/yanqingqita1/pg1/)
+Traceback (most recent call last):
+  File "P:\SERVERs\Anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\CODE\PycharmProjects\ershoufangScrappy\esfspider\esfspider\spiders\testxiaoquSpider.py", line 96, in parse_content
+    print(xiaoqu_id, unit_price[0].text())
+TypeError: 'str' object is not callable
+2021-02-19 16:08:45 [scrapy.core.scraper] ERROR: Spider error processing <GET https://bj.lianjia.com/xiaoqu/1120030627662461> (referer: https://bj.lianjia.com/xiaoqu/yanqingqita1/pg1/)
+Traceback (most recent call last):
+  File "P:\SERVERs\Anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\CODE\PycharmProjects\ershoufangScrappy\esfspider\esfspider\spiders\testxiaoquSpider.py", line 96, in parse_content
+    print(xiaoqu_id, unit_price[0].text())
+IndexError: list index out of range
+2021-02-19 16:08:49 [scrapy.core.scraper] ERROR: Spider error processing <GET https://bj.lianjia.com/xiaoqu/1111046347604> (referer: https://bj.lianjia.com/xiaoqu/yanqingqita1/pg1/)
+Traceback (most recent call last):
+  File "P:\SERVERs\Anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\CODE\PycharmProjects\ershoufangScrappy\esfspider\esfspider\spiders\testxiaoquSpider.py", line 96, in parse_content
+    print(xiaoqu_id, unit_price[0].text())
+IndexError: list index out of range
+2021-02-19 16:08:53 [scrapy.core.scraper] ERROR: Spider error processing <GET https://bj.lianjia.com/xiaoqu/1120030626614365> (referer: https://bj.lianjia.com/xiaoqu/yanqingqita1/pg1/)
+Traceback (most recent call last):
+  File "P:\SERVERs\Anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\CODE\PycharmProjects\ershoufangScrappy\esfspider\esfspider\spiders\testxiaoquSpider.py", line 96, in parse_content
+    print(xiaoqu_id, unit_price[0].text())
+IndexError: list index out of range
+2021-02-19 16:08:57 [scrapy.core.scraper] ERROR: Spider error processing <GET https://bj.lianjia.com/xiaoqu/1113447651142957> (referer: https://bj.lianjia.com/xiaoqu/yanqingqita1/pg1/)
+Traceback (most recent call last):
+  File "P:\SERVERs\Anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\CODE\PycharmProjects\ershoufangScrappy\esfspider\esfspider\spiders\testxiaoquSpider.py", line 96, in parse_content
+    print(xiaoqu_id, unit_price[0].text())
+IndexError: list index out of range
+2021-02-19 16:09:01 [scrapy.core.scraper] ERROR: Spider error processing <GET https://bj.lianjia.com/xiaoqu/1120030631853477> (referer: https://bj.lianjia.com/xiaoqu/yanqingqita1/pg1/)
+Traceback (most recent call last):
+  File "P:\SERVERs\Anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\CODE\PycharmProjects\ershoufangScrappy\esfspider\esfspider\spiders\testxiaoquSpider.py", line 96, in parse_content
+    print(xiaoqu_id, unit_price[0].text())
+IndexError: list index out of range
+2021-02-19 16:09:04 [scrapy.core.scraper] ERROR: Spider error processing <GET https://bj.lianjia.com/xiaoqu/1120030632899034> (referer: https://bj.lianjia.com/xiaoqu/yanqingqita1/pg1/)
+Traceback (most recent call last):
+  File "P:\SERVERs\Anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\CODE\PycharmProjects\ershoufangScrappy\esfspider\esfspider\spiders\testxiaoquSpider.py", line 96, in parse_content
+    print(xiaoqu_id, unit_price[0].text())
+IndexError: list index out of range
+2021-02-19 16:09:07 [scrapy.core.scraper] ERROR: Spider error processing <GET https://bj.lianjia.com/xiaoqu/1111046229825> (referer: https://bj.lianjia.com/xiaoqu/yanqingqita1/pg1/)
+Traceback (most recent call last):
+  File "P:\SERVERs\Anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\CODE\PycharmProjects\ershoufangScrappy\esfspider\esfspider\spiders\testxiaoquSpider.py", line 96, in parse_content
+    print(xiaoqu_id, unit_price[0].text())
+IndexError: list index out of range
+2021-02-19 16:09:11 [scrapy.core.scraper] ERROR: Spider error processing <GET https://bj.lianjia.com/xiaoqu/1120030842710920> (referer: https://bj.lianjia.com/xiaoqu/yanqingqita1/pg1/)
+Traceback (most recent call last):
+  File "P:\SERVERs\Anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\CODE\PycharmProjects\ershoufangScrappy\esfspider\esfspider\spiders\testxiaoquSpider.py", line 96, in parse_content
+    print(xiaoqu_id, unit_price[0].text())
+TypeError: 'str' object is not callable
+2021-02-19 16:09:16 [scrapy.core.scraper] ERROR: Spider error processing <GET https://bj.lianjia.com/xiaoqu/1120027147086352> (referer: https://bj.lianjia.com/xiaoqu/yanqingqita1/pg1/)
+Traceback (most recent call last):
+  File "P:\SERVERs\Anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\CODE\PycharmProjects\ershoufangScrappy\esfspider\esfspider\spiders\testxiaoquSpider.py", line 96, in parse_content
+    print(xiaoqu_id, unit_price[0].text())
+IndexError: list index out of range
+2021-02-19 16:09:18 [scrapy.core.scraper] ERROR: Spider error processing <GET https://bj.lianjia.com/xiaoqu/1111027381664> (referer: https://bj.lianjia.com/xiaoqu/yanqingqita1/pg1/)
+Traceback (most recent call last):
+  File "P:\SERVERs\Anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\CODE\PycharmProjects\ershoufangScrappy\esfspider\esfspider\spiders\testxiaoquSpider.py", line 96, in parse_content
+    print(xiaoqu_id, unit_price[0].text())
+IndexError: list index out of range
+2021-02-19 16:09:21 [scrapy.core.scraper] ERROR: Spider error processing <GET https://bj.lianjia.com/xiaoqu/1120020597220817> (referer: https://bj.lianjia.com/xiaoqu/yanqingqita1/pg1/)
+Traceback (most recent call last):
+  File "P:\SERVERs\Anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\CODE\PycharmProjects\ershoufangScrappy\esfspider\esfspider\spiders\testxiaoquSpider.py", line 96, in parse_content
+    print(xiaoqu_id, unit_price[0].text())
+IndexError: list index out of range
+2021-02-19 16:09:41 [scrapy.core.scraper] ERROR: Spider error processing <GET https://bj.lianjia.com/xiaoqu/1120030663305918> (referer: https://bj.lianjia.com/xiaoqu/yanqingqita1/pg1/)
+Traceback (most recent call last):
+  File "P:\SERVERs\Anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\CODE\PycharmProjects\ershoufangScrappy\esfspider\esfspider\spiders\testxiaoquSpider.py", line 96, in parse_content
+    print(xiaoqu_id, unit_price[0].text)
+IndexError: list index out of range
+2021-02-19 16:09:44 [scrapy.core.scraper] ERROR: Spider error processing <GET https://bj.lianjia.com/xiaoqu/11000000000529> (referer: https://bj.lianjia.com/xiaoqu/yanqingqita1/pg1/)
+Traceback (most recent call last):
+  File "P:\SERVERs\Anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\CODE\PycharmProjects\ershoufangScrappy\esfspider\esfspider\spiders\testxiaoquSpider.py", line 96, in parse_content
+    print(xiaoqu_id, unit_price[0].text)
+IndexError: list index out of range
+2021-02-19 16:09:48 [scrapy.core.scraper] ERROR: Spider error processing <GET https://bj.lianjia.com/xiaoqu/1120030624515419> (referer: https://bj.lianjia.com/xiaoqu/yanqingqita1/pg1/)
+Traceback (most recent call last):
+  File "P:\SERVERs\Anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\CODE\PycharmProjects\ershoufangScrappy\esfspider\esfspider\spiders\testxiaoquSpider.py", line 96, in parse_content
+    print(xiaoqu_id, unit_price[0].text)
+IndexError: list index out of range
+2021-02-19 16:09:55 [scrapy.core.scraper] ERROR: Spider error processing <GET https://bj.lianjia.com/xiaoqu/1120030626613910> (referer: https://bj.lianjia.com/xiaoqu/yanqingqita1/pg1/)
+Traceback (most recent call last):
+  File "P:\SERVERs\Anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\CODE\PycharmProjects\ershoufangScrappy\esfspider\esfspider\spiders\testxiaoquSpider.py", line 96, in parse_content
+    print(xiaoqu_id, unit_price[0].text)
+IndexError: list index out of range
+2021-02-19 16:10:06 [scrapy.core.scraper] ERROR: Spider error processing <GET https://bj.lianjia.com/xiaoqu/1111043183488> (referer: https://bj.lianjia.com/xiaoqu/yanqingqita1/pg1/)
+Traceback (most recent call last):
+  File "P:\SERVERs\Anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\CODE\PycharmProjects\ershoufangScrappy\esfspider\esfspider\spiders\testxiaoquSpider.py", line 96, in parse_content
+    print(xiaoqu_id, unit_price[0].text)
+IndexError: list index out of range
+2021-02-19 16:10:20 [scrapy.core.scraper] ERROR: Spider error processing <GET https://bj.lianjia.com/xiaoqu/1120030627662461> (referer: https://bj.lianjia.com/xiaoqu/yanqingqita1/pg1/)
+Traceback (most recent call last):
+  File "P:\SERVERs\Anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\CODE\PycharmProjects\ershoufangScrappy\esfspider\esfspider\spiders\testxiaoquSpider.py", line 96, in parse_content
+    print(xiaoqu_id, unit_price[0].text)
+IndexError: list index out of range
+2021-02-19 16:10:23 [scrapy.core.scraper] ERROR: Spider error processing <GET https://bj.lianjia.com/xiaoqu/1111046347604> (referer: https://bj.lianjia.com/xiaoqu/yanqingqita1/pg1/)
+Traceback (most recent call last):
+  File "P:\SERVERs\Anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\CODE\PycharmProjects\ershoufangScrappy\esfspider\esfspider\spiders\testxiaoquSpider.py", line 96, in parse_content
+    print(xiaoqu_id, unit_price[0].text)
+IndexError: list index out of range
+2021-02-19 16:10:27 [scrapy.core.scraper] ERROR: Spider error processing <GET https://bj.lianjia.com/xiaoqu/1120030626614365> (referer: https://bj.lianjia.com/xiaoqu/yanqingqita1/pg1/)
+Traceback (most recent call last):
+  File "P:\SERVERs\Anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\CODE\PycharmProjects\ershoufangScrappy\esfspider\esfspider\spiders\testxiaoquSpider.py", line 96, in parse_content
+    print(xiaoqu_id, unit_price[0].text)
+IndexError: list index out of range
+2021-02-19 16:10:30 [scrapy.core.scraper] ERROR: Spider error processing <GET https://bj.lianjia.com/xiaoqu/1113447651142957> (referer: https://bj.lianjia.com/xiaoqu/yanqingqita1/pg1/)
+Traceback (most recent call last):
+  File "P:\SERVERs\Anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\CODE\PycharmProjects\ershoufangScrappy\esfspider\esfspider\spiders\testxiaoquSpider.py", line 96, in parse_content
+    print(xiaoqu_id, unit_price[0].text)
+IndexError: list index out of range
+2021-02-19 16:10:33 [scrapy.core.scraper] ERROR: Spider error processing <GET https://bj.lianjia.com/xiaoqu/1120030631853477> (referer: https://bj.lianjia.com/xiaoqu/yanqingqita1/pg1/)
+Traceback (most recent call last):
+  File "P:\SERVERs\Anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\CODE\PycharmProjects\ershoufangScrappy\esfspider\esfspider\spiders\testxiaoquSpider.py", line 96, in parse_content
+    print(xiaoqu_id, unit_price[0].text)
+IndexError: list index out of range
+2021-02-19 16:10:36 [scrapy.core.scraper] ERROR: Spider error processing <GET https://bj.lianjia.com/xiaoqu/1120030632899034> (referer: https://bj.lianjia.com/xiaoqu/yanqingqita1/pg1/)
+Traceback (most recent call last):
+  File "P:\SERVERs\Anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\CODE\PycharmProjects\ershoufangScrappy\esfspider\esfspider\spiders\testxiaoquSpider.py", line 96, in parse_content
+    print(xiaoqu_id, unit_price[0].text)
+IndexError: list index out of range
+2021-02-19 16:10:40 [scrapy.core.scraper] ERROR: Spider error processing <GET https://bj.lianjia.com/xiaoqu/1111046229825> (referer: https://bj.lianjia.com/xiaoqu/yanqingqita1/pg1/)
+Traceback (most recent call last):
+  File "P:\SERVERs\Anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\CODE\PycharmProjects\ershoufangScrappy\esfspider\esfspider\spiders\testxiaoquSpider.py", line 96, in parse_content
+    print(xiaoqu_id, unit_price[0].text)
+IndexError: list index out of range
+2021-02-19 16:10:47 [scrapy.core.scraper] ERROR: Spider error processing <GET https://bj.lianjia.com/xiaoqu/1120027147086352> (referer: https://bj.lianjia.com/xiaoqu/yanqingqita1/pg1/)
+Traceback (most recent call last):
+  File "P:\SERVERs\Anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\CODE\PycharmProjects\ershoufangScrappy\esfspider\esfspider\spiders\testxiaoquSpider.py", line 96, in parse_content
+    print(xiaoqu_id, unit_price[0].text)
+IndexError: list index out of range
+2021-02-19 16:10:51 [scrapy.core.scraper] ERROR: Spider error processing <GET https://bj.lianjia.com/xiaoqu/1111027381664> (referer: https://bj.lianjia.com/xiaoqu/yanqingqita1/pg1/)
+Traceback (most recent call last):
+  File "P:\SERVERs\Anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\CODE\PycharmProjects\ershoufangScrappy\esfspider\esfspider\spiders\testxiaoquSpider.py", line 96, in parse_content
+    print(xiaoqu_id, unit_price[0].text)
+IndexError: list index out of range
+2021-02-19 16:10:55 [scrapy.core.scraper] ERROR: Spider error processing <GET https://bj.lianjia.com/xiaoqu/1120020597220817> (referer: https://bj.lianjia.com/xiaoqu/yanqingqita1/pg1/)
+Traceback (most recent call last):
+  File "P:\SERVERs\Anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\CODE\PycharmProjects\ershoufangScrappy\esfspider\esfspider\spiders\testxiaoquSpider.py", line 96, in parse_content
+    print(xiaoqu_id, unit_price[0].text)
+IndexError: list index out of range
+2021-02-19 16:10:58 [scrapy.core.scraper] ERROR: Spider error processing <GET https://bj.lianjia.com/xiaoqu/1120030653877020> (referer: https://bj.lianjia.com/xiaoqu/yanqingqita1/pg1/)
+Traceback (most recent call last):
+  File "P:\SERVERs\Anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\CODE\PycharmProjects\ershoufangScrappy\esfspider\esfspider\spiders\testxiaoquSpider.py", line 96, in parse_content
+    print(xiaoqu_id, unit_price[0].text)
+IndexError: list index out of range
+2021-02-19 16:11:07 [scrapy.core.scraper] ERROR: Spider error processing <GET https://bj.lianjia.com/xiaoqu/1120021576772044> (referer: https://bj.lianjia.com/xiaoqu/yanqingqita1/pg1/)
+Traceback (most recent call last):
+  File "P:\SERVERs\Anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\CODE\PycharmProjects\ershoufangScrappy\esfspider\esfspider\spiders\testxiaoquSpider.py", line 96, in parse_content
+    print(xiaoqu_id, unit_price[0].text)
+IndexError: list index out of range
+2021-02-19 16:11:14 [scrapy.core.scraper] ERROR: Spider error processing <GET https://bj.lianjia.com/xiaoqu/1120020695804580> (referer: https://bj.lianjia.com/xiaoqu/yanqingqita1/pg1/)
+Traceback (most recent call last):
+  File "P:\SERVERs\Anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\CODE\PycharmProjects\ershoufangScrappy\esfspider\esfspider\spiders\testxiaoquSpider.py", line 96, in parse_content
+    print(xiaoqu_id, unit_price[0].text)
+IndexError: list index out of range
+2021-02-19 16:11:18 [scrapy.core.scraper] ERROR: Spider error processing <GET https://bj.lianjia.com/xiaoqu/1120030670651923> (referer: https://bj.lianjia.com/xiaoqu/yanqingqita1/pg1/)
+Traceback (most recent call last):
+  File "P:\SERVERs\Anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\CODE\PycharmProjects\ershoufangScrappy\esfspider\esfspider\spiders\testxiaoquSpider.py", line 96, in parse_content
+    print(xiaoqu_id, unit_price[0].text)
+IndexError: list index out of range
+2021-02-19 16:11:21 [scrapy.core.scraper] ERROR: Spider error processing <GET https://bj.lianjia.com/xiaoqu/1120025429663835> (referer: https://bj.lianjia.com/xiaoqu/yanqingqita1/pg1/)
+Traceback (most recent call last):
+  File "P:\SERVERs\Anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\CODE\PycharmProjects\ershoufangScrappy\esfspider\esfspider\spiders\testxiaoquSpider.py", line 96, in parse_content
+    print(xiaoqu_id, unit_price[0].text)
+IndexError: list index out of range
+2021-02-19 17:41:41 [scrapy.downloadermiddlewares.retry] ERROR: Gave up retrying <GET http://ip.chinaz.com/getip.aspx> (failed 3 times): Connection was refused by other side: 10061: 由于目标计算机积极拒绝，无法连接。.
+2021-02-19 17:41:41 [scrapy.core.scraper] ERROR: Error downloading <GET http://ip.chinaz.com/getip.aspx>
+Traceback (most recent call last):
+  File "P:\SERVERs\Anaconda3\lib\site-packages\scrapy\core\downloader\middleware.py", line 45, in process_request
+    return (yield download_func(request=request, spider=spider))
+twisted.internet.error.ConnectionRefusedError: Connection was refused by other side: 10061: 由于目标计算机积极拒绝，无法连接。.
+2021-02-19 17:41:47 [scrapy.downloadermiddlewares.retry] ERROR: Gave up retrying <GET http://ip.chinaz.com/getip.aspx> (failed 3 times): Connection was refused by other side: 10061: 由于目标计算机积极拒绝，无法连接。.
+2021-02-19 17:41:47 [scrapy.core.scraper] ERROR: Error downloading <GET http://ip.chinaz.com/getip.aspx>
+Traceback (most recent call last):
+  File "P:\SERVERs\Anaconda3\lib\site-packages\scrapy\core\downloader\middleware.py", line 45, in process_request
+    return (yield download_func(request=request, spider=spider))
+twisted.internet.error.ConnectionRefusedError: Connection was refused by other side: 10061: 由于目标计算机积极拒绝，无法连接。.
+2021-02-19 17:42:13 [scrapy.downloadermiddlewares.retry] ERROR: Gave up retrying <GET http://ip.chinaz.com/getip.aspx> (failed 3 times): TCP connection timed out: 10060: 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。.
+2021-02-19 17:42:13 [scrapy.core.scraper] ERROR: Error downloading <GET http://ip.chinaz.com/getip.aspx>
+Traceback (most recent call last):
+  File "P:\SERVERs\Anaconda3\lib\site-packages\scrapy\core\downloader\middleware.py", line 45, in process_request
+    return (yield download_func(request=request, spider=spider))
+twisted.internet.error.TCPTimedOutError: TCP connection timed out: 10060: 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。.
+2021-02-19 17:42:17 [scrapy.downloadermiddlewares.retry] ERROR: Gave up retrying <GET http://ip.chinaz.com/getip.aspx> (failed 3 times): TCP connection timed out: 10060: 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。.
+2021-02-19 17:42:17 [scrapy.core.scraper] ERROR: Error downloading <GET http://ip.chinaz.com/getip.aspx>
+Traceback (most recent call last):
+  File "P:\SERVERs\Anaconda3\lib\site-packages\scrapy\core\downloader\middleware.py", line 45, in process_request
+    return (yield download_func(request=request, spider=spider))
+twisted.internet.error.TCPTimedOutError: TCP connection timed out: 10060: 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。.
+2021-02-19 17:43:06 [scrapy.downloadermiddlewares.retry] ERROR: Gave up retrying <GET http://ip.chinaz.com/getip.aspx> (failed 3 times): Connection was refused by other side: 10061: 由于目标计算机积极拒绝，无法连接。.
+2021-02-19 17:43:06 [scrapy.core.scraper] ERROR: Error downloading <GET http://ip.chinaz.com/getip.aspx>
+Traceback (most recent call last):
+  File "P:\SERVERs\Anaconda3\lib\site-packages\scrapy\core\downloader\middleware.py", line 45, in process_request
+    return (yield download_func(request=request, spider=spider))
+twisted.internet.error.ConnectionRefusedError: Connection was refused by other side: 10061: 由于目标计算机积极拒绝，无法连接。.
+2021-02-19 17:43:33 [scrapy.downloadermiddlewares.retry] ERROR: Gave up retrying <GET http://ip.chinaz.com/getip.aspx> (failed 3 times): Connection was refused by other side: 10061: 由于目标计算机积极拒绝，无法连接。.
+2021-02-19 17:43:34 [scrapy.core.scraper] ERROR: Error downloading <GET http://ip.chinaz.com/getip.aspx>
+Traceback (most recent call last):
+  File "P:\SERVERs\Anaconda3\lib\site-packages\scrapy\core\downloader\middleware.py", line 45, in process_request
+    return (yield download_func(request=request, spider=spider))
+twisted.internet.error.ConnectionRefusedError: Connection was refused by other side: 10061: 由于目标计算机积极拒绝，无法连接。.
+2021-02-19 17:43:37 [scrapy.downloadermiddlewares.retry] ERROR: Gave up retrying <GET http://ip.chinaz.com/getip.aspx> (failed 3 times): Connection was refused by other side: 10061: 由于目标计算机积极拒绝，无法连接。.
+2021-02-19 17:43:37 [scrapy.core.scraper] ERROR: Error downloading <GET http://ip.chinaz.com/getip.aspx>
+Traceback (most recent call last):
+  File "P:\SERVERs\Anaconda3\lib\site-packages\scrapy\core\downloader\middleware.py", line 45, in process_request
+    return (yield download_func(request=request, spider=spider))
+twisted.internet.error.ConnectionRefusedError: Connection was refused by other side: 10061: 由于目标计算机积极拒绝，无法连接。.
+2021-02-19 17:43:43 [scrapy.downloadermiddlewares.retry] ERROR: Gave up retrying <GET http://ip.chinaz.com/getip.aspx> (failed 3 times): TCP connection timed out: 10060: 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。.
+2021-02-19 17:43:43 [scrapy.core.scraper] ERROR: Error downloading <GET http://ip.chinaz.com/getip.aspx>
+Traceback (most recent call last):
+  File "P:\SERVERs\Anaconda3\lib\site-packages\scrapy\core\downloader\middleware.py", line 45, in process_request
+    return (yield download_func(request=request, spider=spider))
+twisted.internet.error.TCPTimedOutError: TCP connection timed out: 10060: 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。.
